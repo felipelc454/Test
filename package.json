@@ -1,0 +1,12 @@
+{
+  "name": "teste01",
+  "version": "1.0.0",
+  "description": "desafio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Felipe Lelles Carneiro <felipelc454@gmail.com>",
+  "license": "ISC"
+}
